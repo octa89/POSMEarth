@@ -1,0 +1,16 @@
+/* -----------------  Tailwind base styles  ------------------ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap");
+
+/* -----------------  Root layout helpers  ------------------- */
+html,
+body,
+#root {
+  height: 100%;   
+  width: 100%;
+  margin: 0;
+}
+
+
